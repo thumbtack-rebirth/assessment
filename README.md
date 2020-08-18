@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム
+thumbtack-rebirthの作ったあなたのいいところ診断
